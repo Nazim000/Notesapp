@@ -1,3 +1,3 @@
 # Notesapp
 </br>
-Author - Muhammad Nazim
+Author - (Muhammad Nazim)
